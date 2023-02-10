@@ -1,0 +1,10 @@
+build/*.o
+build/*.d
+build/*.lst
+backup/*
+CMSIS/*
+hal/*
+_mx/*
+*.sh
+*.cmd
+info/*
